@@ -1,19 +1,5 @@
 # Upcaser
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `upcaser` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:upcaser, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/upcaser](https://hexdocs.pm/upcaser).
-
+A very basic elixir 'microservice' for upcasing strings. Not intended to be used by
+anyone because it's pointless. This project serves as an example project for the
+[DailyDrip Elixir topic](https://www.dailydrip.com/topics/elixir).
